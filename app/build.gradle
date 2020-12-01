@@ -22,7 +22,7 @@ repositories {
 
 dependencies {
     
-    implementation name: 'workapi-0.1.0'
+    implementation name: 'work-api-0.1.0'
   
     // Use JUnit test framework.
     testImplementation 'junit:junit:4.13'
